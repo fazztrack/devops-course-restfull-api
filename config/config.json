@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fill with your database username",
+    "password": "fill with your database password",
+    "database": "fill with your database name",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "fill with your database username",
+    "password": "fill with your database password",
+    "database": "fill with your database name",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "fill with your database username",
+    "password": "fill with your database password",
+    "database": "fill with your database name",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
